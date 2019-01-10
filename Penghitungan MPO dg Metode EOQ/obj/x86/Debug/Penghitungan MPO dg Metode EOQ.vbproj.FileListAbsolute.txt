@@ -1,0 +1,14 @@
+E:\Stikom\Mata Kuliah\Semester 3\1. Pemrograman Basis Data\UAS\Penghitungan MPO dg Metode EOQ\Penghitungan MPO dg Metode EOQ\bin\Debug\Penghitungan MPO dg Metode EOQ.exe
+E:\Stikom\Mata Kuliah\Semester 3\1. Pemrograman Basis Data\UAS\Penghitungan MPO dg Metode EOQ\Penghitungan MPO dg Metode EOQ\bin\Debug\Penghitungan MPO dg Metode EOQ.pdb
+E:\Stikom\Mata Kuliah\Semester 3\1. Pemrograman Basis Data\UAS\Penghitungan MPO dg Metode EOQ\Penghitungan MPO dg Metode EOQ\bin\Debug\Penghitungan MPO dg Metode EOQ.xml
+E:\Stikom\Mata Kuliah\Semester 3\1. Pemrograman Basis Data\UAS\Penghitungan MPO dg Metode EOQ\Penghitungan MPO dg Metode EOQ\obj\x86\Debug\WindowsApplication1.Dashboard.resources
+E:\Stikom\Mata Kuliah\Semester 3\1. Pemrograman Basis Data\UAS\Penghitungan MPO dg Metode EOQ\Penghitungan MPO dg Metode EOQ\obj\x86\Debug\WindowsApplication1.Admin.resources
+E:\Stikom\Mata Kuliah\Semester 3\1. Pemrograman Basis Data\UAS\Penghitungan MPO dg Metode EOQ\Penghitungan MPO dg Metode EOQ\obj\x86\Debug\WindowsApplication1.User.resources
+E:\Stikom\Mata Kuliah\Semester 3\1. Pemrograman Basis Data\UAS\Penghitungan MPO dg Metode EOQ\Penghitungan MPO dg Metode EOQ\obj\x86\Debug\WindowsApplication1.Login.resources
+E:\Stikom\Mata Kuliah\Semester 3\1. Pemrograman Basis Data\UAS\Penghitungan MPO dg Metode EOQ\Penghitungan MPO dg Metode EOQ\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Stikom\Mata Kuliah\Semester 3\1. Pemrograman Basis Data\UAS\Penghitungan MPO dg Metode EOQ\Penghitungan MPO dg Metode EOQ\obj\x86\Debug\Penghitungan MPO dg Metode EOQ.vbproj.GenerateResource.Cache
+E:\Stikom\Mata Kuliah\Semester 3\1. Pemrograman Basis Data\UAS\Penghitungan MPO dg Metode EOQ\Penghitungan MPO dg Metode EOQ\obj\x86\Debug\Penghitungan MPO dg Metode EOQ.exe
+E:\Stikom\Mata Kuliah\Semester 3\1. Pemrograman Basis Data\UAS\Penghitungan MPO dg Metode EOQ\Penghitungan MPO dg Metode EOQ\obj\x86\Debug\Penghitungan MPO dg Metode EOQ.xml
+E:\Stikom\Mata Kuliah\Semester 3\1. Pemrograman Basis Data\UAS\Penghitungan MPO dg Metode EOQ\Penghitungan MPO dg Metode EOQ\obj\x86\Debug\Penghitungan MPO dg Metode EOQ.pdb
+E:\Stikom\Mata Kuliah\Semester 3\1. Pemrograman Basis Data\UAS\Penghitungan MPO dg Metode EOQ\Penghitungan MPO dg Metode EOQ\obj\x86\Debug\WindowsApplication1.Daftar.resources
+E:\Stikom\Mata Kuliah\Semester 3\1. Pemrograman Basis Data\UAS\Penghitungan MPO dg Metode EOQ\Penghitungan MPO dg Metode EOQ\obj\x86\Debug\WindowsApplication1.Daftarper.resources
